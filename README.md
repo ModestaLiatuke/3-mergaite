@@ -21,5 +21,5 @@ Design: [Mergaite] https://cdn.discordapp.com/attachments/850245533838868480/850
 
 ## Authors
 
-Modesta 
+Modesta [Github] (https://github.com/ModestaLiatuke)
 
